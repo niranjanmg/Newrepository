@@ -9,3 +9,7 @@ springboot
 mehtodology
 agile method
 kanbon process
+
+added old models
+waterfall model
+v&v moldel.
